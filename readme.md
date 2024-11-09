@@ -27,9 +27,7 @@ This project is an interactive progress bar with multiple steps that visually up
 2. Open `index.html` in your preferred browser.
 3. Use the "Next" and "Prev" buttons to see the progress bar in action.
 
-## Screenshot
 
-![Progress Steps](screenshot.png)
 
 ## Future Improvements
 
